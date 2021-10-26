@@ -28,5 +28,8 @@ A collection of Resources which may be helpful in our Graduation Project.
 - [Markdown Crash Course](https://youtu.be/HUBNt18RFbo)
 - [Learn Markdown in 30 minutes!](https://www.youtube.com/watch?v=bTVIMt3XllM)
 
+### Guides
+
+- [Markdown Guide](https://www.markdownguide.org/)
 
 
