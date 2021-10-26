@@ -32,4 +32,6 @@ A collection of Resources which may be helpful in our Graduation Project.
 
 - [Markdown Guide](https://www.markdownguide.org/)
 
+### Tools
 
+- [Markdown live Preview Editor](https://markdownlivepreview.com/)
