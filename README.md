@@ -10,11 +10,11 @@ A collection of Resources which may be helpful in our Graduation Project.
 
 * [Git](#Git)
 * [Markdown](#Markdown)
-* [GitHub Repositories for Hate Speech Detection](#GitHubRepositoriesforHateSpeechDetection)
-* [GitHub Repositories for Speech Recognition](#GitHubRepositoriesforSpeechRecognition)
+* [GitHub Repositories for Hate Speech Detection](#GitHub-Repositories-for-Hate-Speech-Detection)
+* [GitHub Repositories for Speech Recognition](#GitHub-Repositories-for-Speech-Recognition)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
-* [Tools and APIs](#ToolsandAPIs)
+* [Tools and APIs](#Tools-and-APIs)
 
 ---
 
