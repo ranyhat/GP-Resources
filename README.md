@@ -2,7 +2,7 @@
 
 > ATHENA h**AT**e speec**H** d**E**tectio**N** **A**PI
 
-A collection of Resources which may be helpful in our Graduation Project.
+A Collection of Resources which may be helpful in our Graduation Project.
 
 ---
 
@@ -102,13 +102,16 @@ A collection of Resources which may be helpful in our Graduation Project.
 - [Automated Hate Speech Detection and the Problem of Offensive Language](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665/14843)
 - [Emotionally Informed Hate Speech Detection: A Multi-target Perspective](https://link.springer.com/article/10.1007/s12559-021-09862-5)
 
-## GitHub Repositories for Speech Recognition
+## GitHub Repositories for Arabic Speech Recognition
 
 - [kaldi-egy-asr](https://github.com/maggieezzat/kaldi-egy-asr)
 - [klaam](https://github.com/ARBML/klaam)
 
-## Tools and APIs
+## Tools and APIs for Arabic ASR
 
-- [Google Speech API](https://cloud.google.com/speech-to-text)
-- [dictation.io](https://dictation.io/)
+- [Kateb - Speech-to-Text](https://kateb.ai/home)
+- [Sonix - Speech-to-Text](https://sonix.ai/)
+- [Maestra](https://maestrasuite.com/)
 - [Nuance : Speech Recognition (ASR) Self‑Service System](https://www.nuance.com/en-nz/omni-channel-customer-engagement/voice-and-ivr/automatic-speech-recognition/nuance-recognizer/recognizer-languages.html)
+- [Google Speech API](https://cloud.google.com/speech-to-text)
+- [dictation.io using Google Speech API](https://dictation.io/)
