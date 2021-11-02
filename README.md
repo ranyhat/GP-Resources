@@ -14,8 +14,8 @@ A Collection of Resources which may be helpful in our Graduation Project.
 * [GitHub Repositories for Hate Speech Detection](#GitHub-Repositories-for-Hate-Speech-Detection)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
-* [GitHub Repositories for Speech Recognition](#GitHub-Repositories-for-Speech-Recognition)
-* [Tools and APIs](#Tools-and-APIs)
+* [GitHub Repositories for Arabic Speech Recognition](#GitHub-Repositories-for-Arabic-Speech-Recognition)
+* [Tools and APIs for Arabic ASR](#Tools-and-APIs-for-Arabic-ASR)
 
 ---
 
@@ -95,7 +95,7 @@ A Collection of Resources which may be helpful in our Graduation Project.
 - [Hate Speech and Offensive Language](https://paperswithcode.com/dataset/hate-speech-and-offensive-language)
 - [hatespeechdata](https://hatespeechdata.com/)
 - [Hate Speech](https://paperswithcode.com/dataset/hate-speech)
-- [List of Arabic Datasets for Machine LearningProjects](https://metatext.io/datasets-list/arabic-language)
+- [List of Arabic Datasets for Machine Learning Projects](https://metatext.io/datasets-list/arabic-language)
 
 ## Papers
 
