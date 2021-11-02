@@ -10,10 +10,11 @@ A collection of Resources which may be helpful in our Graduation Project.
 
 * [Git](#Git)
 * [Markdown](#Markdown)
+* [Transformers](#Transformers)
 * [GitHub Repositories for Hate Speech Detection](#GitHub-Repositories-for-Hate-Speech-Detection)
-* [GitHub Repositories for Speech Recognition](#GitHub-Repositories-for-Speech-Recognition)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
+* [GitHub Repositories for Speech Recognition](#GitHub-Repositories-for-Speech-Recognition)
 * [Tools and APIs](#Tools-and-APIs)
 
 ---
@@ -43,6 +44,29 @@ A collection of Resources which may be helpful in our Graduation Project.
 
 <!-- Dr Waleed's Resources-->
 
+## Transformers
+
+### Courses
+
+- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [CS224n: Natural Language Processing with Deep Learning | Winter 2021 YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
+### Videos
+
+- [Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA)
+- [Rasa Algorithm Whiteboard - Transformers & Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk)
+- [Rasa Algorithm Whiteboard - Transformers & Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c)
+- [Rasa Algorithm Whiteboard: Transformers & Attention 4 - Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM)
+
+### Guides
+
+- [The Road To BERT](https://ahmadelsallab.github.io/personal/blog/blog%20posts/The-Road-To-BERT)
+
+### BERT | GPT2 Repos
+
+- [AraBERTv2 / AraGPT2 / AraELECTRA GitHub Repo](https://github.com/aub-mind/arabert)
+- [Pretrained BERT base language model for Arabic](https://huggingface.co/asafaya/bert-base-arabic)
+
 ## GitHub Repositories for Hate Speech Detection
 
 - [Hate-Speech-Detection](https://github.com/sayarghoshroy/Hate-Speech-Detection)
@@ -59,11 +83,6 @@ A collection of Resources which may be helpful in our Graduation Project.
 - [Toxic-Language-Detection-in-Online-Content](https://github.com/adityagaydhani/Toxic-Language-Detection-in-Online-Content)
 - [offensive_Arabic](https://github.com/Strifee/offensive_Arabic)
 - [profanity](https://github.com/rodgeraraujo/profanity)
-
-## GitHub Repositories for Speech Recognition
-
-- [kaldi-egy-asr](https://github.com/maggieezzat/kaldi-egy-asr)
-- [klaam](https://github.com/ARBML/klaam)
 
 ## Datasets
 
@@ -83,10 +102,13 @@ A collection of Resources which may be helpful in our Graduation Project.
 - [Automated Hate Speech Detection and the Problem of Offensive Language](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665/14843)
 - [Emotionally Informed Hate Speech Detection: A Multi-target Perspective](https://link.springer.com/article/10.1007/s12559-021-09862-5)
 
+## GitHub Repositories for Speech Recognition
+
+- [kaldi-egy-asr](https://github.com/maggieezzat/kaldi-egy-asr)
+- [klaam](https://github.com/ARBML/klaam)
+
 ## Tools and APIs
 
 - [Google Speech API](https://cloud.google.com/speech-to-text)
 - [dictation.io](https://dictation.io/)
-
-
-
+- [Nuance : Speech Recognition (ASR) Self‑Service System](https://www.nuance.com/en-nz/omni-channel-customer-engagement/voice-and-ivr/automatic-speech-recognition/nuance-recognizer/recognizer-languages.html)
