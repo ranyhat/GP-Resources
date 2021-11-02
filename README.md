@@ -29,7 +29,7 @@ A Collection of Resources which may be helpful in our Graduation Project.
 
 ### Guides and Cheat Sheets
 
--[A list of commonly used Git commands](https://github.com/AliOsamaHassan/GitHub-Commands-Lines)
+- [A list of commonly used Git commands](https://github.com/AliOsamaHassan/GitHub-Commands-Lines)
 
 ## Markdown
 
