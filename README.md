@@ -27,6 +27,10 @@ A Collection of Resources which may be helpful in our Graduation Project.
 - [Learn Git In 15 Minutes](https://youtu.be/USjZcfj8yxE)
 - [Learn Github in 20 Minutes](https://youtu.be/nhNq2kIvi9s)
 
+### Guides and Cheat Sheets
+
+-[A list of commonly used Git commands](https://github.com/AliOsamaHassan/GitHub-Commands-Lines)
+
 ## Markdown
 
 ### Videos
