@@ -9,15 +9,15 @@ A Collection of Resources which may be helpful in our Graduation Project.
 ## Categories
 
 * [Git](#Git)
+	* [Videos](#Videos)
+	* [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets)
+* [Markdown](#Markdown)
 	* [Videos](#Videos-1)
 	* [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets-1)
-* [Markdown](#Markdown)
-	* [Videos](#Videos-2)
-	* [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets-2)
-	* [Tools](#Tools-1)
+	* [Tools](#Tools)
 * [Transformers](#Transformers)
 	* [Courses](#Courses)
-	* [Videos](#Videos-3)
+	* [Videos](#Videos-2)
 	* [Guides](#Guides)
 	* [BERT & GPT2 Repos](#BERT-&-GPT2-Repos)
 * [Hate Speech Detection](#Hate-Speech-Detection)
@@ -49,7 +49,7 @@ A Collection of Resources which may be helpful in our Graduation Project.
 - [Markdown Crash Course](https://youtu.be/HUBNt18RFbo)
 - [Learn Markdown in 30 minutes!](https://www.youtube.com/watch?v=bTVIMt3XllM)
 
-### Guides
+### Guides and Cheat Sheets
 
 - [Markdown Guide](https://www.markdownguide.org/)
 
