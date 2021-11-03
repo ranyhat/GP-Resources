@@ -1,6 +1,6 @@
 # Graduation Project Resources
 
-> ATHENA h**AT**e speec**H** d**E**tectio**N** **A**PI
+> ATHENA : h**AT**e speec**H** d**E**tectio**N** **A**PI
 
 A Collection of Resources which may be helpful in our Graduation Project.
 
@@ -9,13 +9,24 @@ A Collection of Resources which may be helpful in our Graduation Project.
 ## Categories
 
 * [Git](#Git)
+	* [Videos](#Videos)
+	* [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets)
 * [Markdown](#Markdown)
+	* [Videos](#Videos)
+	* [Guides](#Guides)
+	* [Tools](#Tools)
 * [Transformers](#Transformers)
-* [GitHub Repositories for Hate Speech Detection](#GitHub-Repositories-for-Hate-Speech-Detection)
-* [Datasets](#Datasets)
-* [Papers](#Papers)
-* [GitHub Repositories for Arabic Speech Recognition](#GitHub-Repositories-for-Arabic-Speech-Recognition)
-* [Tools and APIs for Arabic ASR](#Tools-and-APIs-for-Arabic-ASR)
+	* [Courses](#Courses)
+	* [Videos](#Videos)
+	* [Guides](#Guides)
+	* [BERT | GPT2 Repos](#BERT-|-GPT2-Repos)
+* [Hate Speech Detection](#Hate-Speech-Detection)
+	* [GitHub Repositories for Hate Speech Detection](#GitHub-Repositories-for-Hate-Speech-Detection)
+	* [Datasets](#Datasets)
+	* [Papers](#Papers)
+* [Arabic Speech Recognition](#GitHub-Repositories-for-Arabic-Speech-Recognition)
+	* [GitHub Repositories for Arabic Speech Recognition](#GitHub-Repositories-for-Arabic-Speech-Recognition)
+	* [Tools and APIs for Arabic ASR](#Tools-and-APIs-for-Arabic-ASR)
 
 ---
 
@@ -71,7 +82,9 @@ A Collection of Resources which may be helpful in our Graduation Project.
 - [AraBERTv2 / AraGPT2 / AraELECTRA GitHub Repo](https://github.com/aub-mind/arabert)
 - [Pretrained BERT base language model for Arabic](https://huggingface.co/asafaya/bert-base-arabic)
 
-## GitHub Repositories for Hate Speech Detection
+## Hate Speech Detection
+
+### GitHub Repositories for Hate Speech Detection
 
 - [Hate-Speech-Detection](https://github.com/sayarghoshroy/Hate-Speech-Detection)
 - [hatespeech-twitter](https://github.com/ENCASEH2020/hatespeech-twitter)
@@ -88,7 +101,7 @@ A Collection of Resources which may be helpful in our Graduation Project.
 - [offensive_Arabic](https://github.com/Strifee/offensive_Arabic)
 - [profanity](https://github.com/rodgeraraujo/profanity)
 
-## Datasets
+### Datasets
 
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Hatebase.org](https://hatebase.org/)
@@ -101,17 +114,19 @@ A Collection of Resources which may be helpful in our Graduation Project.
 - [Hate Speech](https://paperswithcode.com/dataset/hate-speech)
 - [List of Arabic Datasets for Machine Learning Projects](https://metatext.io/datasets-list/arabic-language)
 
-## Papers
+### Papers
 
 - [Automated Hate Speech Detection and the Problem of Offensive Language](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665/14843)
 - [Emotionally Informed Hate Speech Detection: A Multi-target Perspective](https://link.springer.com/article/10.1007/s12559-021-09862-5)
 
-## GitHub Repositories for Arabic Speech Recognition
+## Arabic Speech Recognition
+
+### GitHub Repositories for Arabic Speech Recognition
 
 - [kaldi-egy-asr](https://github.com/maggieezzat/kaldi-egy-asr)
 - [klaam](https://github.com/ARBML/klaam)
 
-## Tools and APIs for Arabic ASR
+### Tools and APIs for Arabic ASR
 
 - [Kateb - Speech-to-Text](https://kateb.ai/home)
 - [Sonix - Speech-to-Text](https://sonix.ai/)
