@@ -77,7 +77,7 @@ A Collection of Resources which may be helpful in our Graduation Project.
 
 - [The Road To BERT](https://ahmadelsallab.github.io/personal/blog/blog%20posts/The-Road-To-BERT)
 
-### BERT | GPT2 Repos
+### BERT & GPT2 Repos
 
 - [AraBERTv2 / AraGPT2 / AraELECTRA GitHub Repo](https://github.com/aub-mind/arabert)
 - [Pretrained BERT base language model for Arabic](https://huggingface.co/asafaya/bert-base-arabic)
