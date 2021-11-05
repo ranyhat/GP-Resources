@@ -15,11 +15,14 @@ A Collection of Resources which may be helpful in our Graduation Project.
 	* [Videos](#Videos-1)
 	* [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets-1)
 	* [Tools](#Tools)
-* [Transformers](#Transformers)
+* [NLP](#NLP)
+	* [NLP Overview](#NLP-Overview)
+		* [Videos](#Videos-2)
 	* [Courses](#Courses)
-	* [Videos](#Videos-2)
-	* [Guides](#Guides)
-	* [BERT and GPT2 Repos](#BERT-and-GPT2-Repos)
+	* [Transformers](#Transformers)
+		* [Videos](#Videos-3)
+		* [Guides](#Guides)
+		* [BERT and GPT2 Repos](#BERT-and-GPT2-Repos)
 * [Hate Speech Detection](#Hate-Speech-Detection)
 	* [GitHub Repositories for Hate Speech Detection](#GitHub-Repositories-for-Hate-Speech-Detection)
 	* [Datasets](#Datasets)
@@ -59,25 +62,33 @@ A Collection of Resources which may be helpful in our Graduation Project.
 
 <!-- Dr Waleed's Resources-->
 
-## Transformers
+## NLP
+
+### NLP Overview
+
+#### Videos
+
+- [What is NLP (Natural Language Processing)?](https://www.youtube.com/watch?v=fLvJ8VdHLA0)
 
 ### Courses
 
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [CS224n: Natural Language Processing with Deep Learning | Winter 2021 YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
-### Videos
+### Transformers
+
+#### Videos
 
 - [Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA)
 - [Rasa Algorithm Whiteboard - Transformers & Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk)
 - [Rasa Algorithm Whiteboard - Transformers & Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c)
 - [Rasa Algorithm Whiteboard: Transformers & Attention 4 - Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM)
 
-### Guides
+#### Guides
 
 - [The Road To BERT](https://ahmadelsallab.github.io/personal/blog/blog%20posts/The-Road-To-BERT)
 
-### BERT and GPT2 Repos
+#### BERT and GPT2 Repos
 
 - [AraBERTv2 / AraGPT2 / AraELECTRA GitHub Repo](https://github.com/aub-mind/arabert)
 - [Pretrained BERT base language model for Arabic](https://huggingface.co/asafaya/bert-base-arabic)
