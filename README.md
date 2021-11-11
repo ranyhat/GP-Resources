@@ -15,12 +15,17 @@ A Collection of Resources which may be helpful in our Graduation Project.
 	* [Videos](#Videos-1)
 	* [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets-1)
 	* [Tools](#Tools)
-* [NLP](#NLP)
-	* [NLP Overview](#NLP-Overview)
+* [AI](#AI)
+	* [Mathematics for Machine Learning](Mathematics-for-Machine-Learning)
 		* [Videos](#Videos-2)
-	* [Courses](#Courses)
-	* [Transformers](#Transformers)
+	* [Deep Learning Overview](Deep-Learning-Overview)
 		* [Videos](#Videos-3)
+	* [NLP Overview](#NLP-Overview)
+		* [Videos](#Videos-4)
+	* [NLP Courses](#NLP-Courses)
+		* [Stanford](#Stanford)
+	* [Transformers](#Transformers)
+		* [Videos](#Videos-5)
 		* [Guides](#Guides)
 		* [BERT and GPT2 Repos](#BERT-and-GPT2-Repos)
 * [Hate Speech Detection](#Hate-Speech-Detection)
@@ -62,15 +67,37 @@ A Collection of Resources which may be helpful in our Graduation Project.
 
 <!-- Dr Waleed's Resources-->
 
-## NLP
+## AI
+
+### Mathematics for Machine Learning
+
+#### Videos
+
+- [Math for Machine Learning Playlist by Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
+- [Essence of Linear Algebra Playlist by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Essence of calculus Playlist by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+### Deep Learning Overview
+
+#### Videos
+
+- [Deep Learning In 5 Minutes | What Is Deep Learning? | Deep Learning Explained Simply | Simplilearn](https://www.youtube.com/watch?v=6M5VXKLf4D4)
+- [Neural Networks Playlist by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c&t=3374s)
 
 ### NLP Overview
 
 #### Videos
 
 - [What is NLP (Natural Language Processing)?](https://www.youtube.com/watch?v=fLvJ8VdHLA0)
+- [Natural Language Processing In 5 Minutes | What Is NLP And How Does It Work? | Simplilearn](https://www.youtube.com/watch?v=CMrHM8a3hqw)
+- [Natural Language Processing In 10 Minutes | NLP Tutorial For Beginners | NLP Training | Edureka](https://www.youtube.com/watch?v=5ctbvkAMQO4)
+- [Vectoring Words (Word Embeddings) - Computerphile](https://www.youtube.com/watch?v=gQddtTdmG_8)
+- [Word Embeddings](https://www.youtube.com/watch?v=5PL0TmQhItY)
 
-### Courses
+### NLP Courses
+
+#### Stanford
 
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [CS224n: Natural Language Processing with Deep Learning | Winter 2021 YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
@@ -140,8 +167,9 @@ A Collection of Resources which may be helpful in our Graduation Project.
 ### Tools and APIs for Arabic ASR
 
 - [Kateb - Speech-to-Text](https://kateb.ai/home)
+- [Nuance : Speech Recognition (ASR) Self‑Service System](https://www.nuance.com/en-nz/omni-channel-customer-engagement/voice-and-ivr/automatic-speech-recognition/nuance-recognizer/recognizer-languages.html)
 - [Sonix - Speech-to-Text](https://sonix.ai/)
 - [Maestra](https://maestrasuite.com/)
-- [Nuance : Speech Recognition (ASR) Self‑Service System](https://www.nuance.com/en-nz/omni-channel-customer-engagement/voice-and-ivr/automatic-speech-recognition/nuance-recognizer/recognizer-languages.html)
+- [AssemblyAI](https://www.assemblyai.com/)
 - [Google Speech API](https://cloud.google.com/speech-to-text)
 - [dictation.io using Google Speech API](https://dictation.io/)
